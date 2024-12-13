@@ -1,8 +1,6 @@
 /*
-project: 01
 author: Jason Appiah-Kubi
 email: jasona2@umbc.edu
-student id: ON35331
 description: a simple linux shell designed to perform basic linux commands
 */
 
