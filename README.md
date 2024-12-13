@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OHwIpFF9)
-# Project 1
-Answer these questions please:
 
 Project Overview:
 -----------------------------------
@@ -19,10 +16,6 @@ Challenges and Solutions?
 What challenges did you encounter while completeing your project, and how did you overcome them?
 the parse command function was most challenging function to implement for me until i learned about strok() function in office hours which kind of works like .strip() in python
 
-
-LLM Disclosure
---------------
-Are there any external resources or references that might be helpful?
 
 
 Testing and Validation
