@@ -13,10 +13,7 @@ description: a simple linux shell designed to perform basic linux commands
 #include "utils.h"
 
 #define HISTORY_FILE ".421sh"
-/*
-In this project, you are going to implement a number of functions to 
-create a simple linux shell interface to perform basic linux commands
-*/
+
 
 void user_prompt_loop();
 char* get_user_command();
