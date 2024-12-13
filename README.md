@@ -1,8 +1,6 @@
 
 Project Overview:
 -----------------------------------
-What is the project about? Provide a brief overview that includes the project's name, purpose, and target audience.
-
 This project mimics the debian bash terminal that on the users computer
 
 Solution Approach:
